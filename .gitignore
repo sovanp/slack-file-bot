@@ -1,0 +1,5 @@
+# environment variables
+.env
+
+# slack-file-bot output file
+slack-file-bot
