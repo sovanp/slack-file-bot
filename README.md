@@ -1,6 +1,6 @@
 # Slack File Bot
 
-A simple Slack Bot that uploads any file, given a specified channel
+A simple Slack Bot that uploads any file given a specified channel. 
 
 ## How to Use
 
@@ -29,7 +29,7 @@ SLACK_BOT_TOKEN=
 CHANNEL_ID=
 ```
 
-## Setup
+## To Do
 
 - Extend functionality to upload multiple files
 
