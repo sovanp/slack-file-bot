@@ -6,7 +6,7 @@ A simple Slack Bot that uploads any file given a specified channel.
 
 1. Add the Slack Bot to your channel
 
-2. Run the commands `go build` and then `source .env && go run main.go` to upoad the file
+2. Run the commands `go build` and then `source .env && go run main.go` to upload the file
 
 ## Setup
 
